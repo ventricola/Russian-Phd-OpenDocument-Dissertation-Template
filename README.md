@@ -9,6 +9,8 @@ OpenDocument-template for russian Phd thesis
 
 ## Благодарности
 * Большое спасибо [AndreyAkinshin](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template), многое почерпнуто оттуда.
+
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
